@@ -18,7 +18,7 @@ US business hours.
 
 [buscoacto.com.ar](https://buscoacto.com.ar)  SaaS for teachers. Node.js/Express, Prisma, PostgreSQL (Neon), React + Vite. Auth, payments, scheduled ingestion. Live users.
 [codth.com.ar](https://codth.com.ar)  Web development studio — sites and admin panels for small businesses, with working demos.
-NeuroBeat.  Mobile puzzle game in React Native + Expo with Supabase/PostgreSQL, published on Google Play & App Store.
+[NeuroBeat].  Mobile puzzle game in React Native + Expo with Supabase/PostgreSQL, published on Google Play & [App Store](https://apps.apple.com/es/app/neurobeat/id6787444900).
 
 **Code you can read here**
 
